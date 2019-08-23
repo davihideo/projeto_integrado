@@ -7,3 +7,5 @@ SQL: importante para utilização da ferramenta banco de dados.
 EngSoftware: importante para prazos e documentações.
 
 A competência de cada matéria para o desenvolvimento do nosso projeto integrado é vital pois elas se interligam.
+=======
+
