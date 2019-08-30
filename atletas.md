@@ -2,5 +2,7 @@
 <Daiane dos Santos >
 <Leonel Messi>
 <Cristiano Ronaldo>
-< Rogério Ceni>
+<Rogério Ceni>
 <Neymar>
+<Rogério Ceni>
+<Marco Reus>
